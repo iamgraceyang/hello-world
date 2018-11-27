@@ -12,3 +12,7 @@
 - branch: adding new contents while maintaining the original contents
 - checkout: going back to the specific branch or commit
 - checkout in Sourcetree: clicking name of the branch
+
+
+## master Branch
+- mostly the *final* version of the file
